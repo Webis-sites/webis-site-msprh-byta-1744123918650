@@ -44,6 +44,11 @@
 
   --glass-blur: 8px;
   --border-radius: 1rem;
+
+  --shadow-neumorphic: 20px 20px 40px rgba(0, 0, 0, 0.05), -8px -8px 20px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-hover: 10px 10px 20px rgba(0, 0, 0, 0.06), -4px -4px 10px rgba(255, 255, 255, 0.9);
+  --shadow-button-neumorphic: 4px 4px 8px rgba(0, 0, 0, 0.1), -2px -2px 6px rgba(255, 255, 255, 0.8);
+  --shadow-button-neumorphic-pressed: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.5);
 }
 
 html {

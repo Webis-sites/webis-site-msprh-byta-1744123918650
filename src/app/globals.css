@@ -28,6 +28,14 @@
   --shadow-header: 0 4px 20px rgba(0, 0, 0, 0.05);
   --neumorphic-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px rgba(255, 255, 255, 0.8);
   --neumorphic-shadow-inset: inset 3px 3px 5px rgba(0, 0, 0, 0.1), inset -3px -3px 5px rgba(255, 255, 255, 0.8);
+
+  --primary: #c800ff;
+  --secondary: #f5ebff;
+  --glassmorphism-bg: rgba(255, 255, 255, 0.1);
+  --glassmorphism-border: rgba(255, 255, 255, 0.2);
+  --animation-duration: 0.3s;
+  --button-radius: 12px;
+  --card-radius: 24px;
 }
 
 html {

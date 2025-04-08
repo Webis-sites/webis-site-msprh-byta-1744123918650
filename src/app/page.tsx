@@ -8,6 +8,7 @@ import ServicesSection from '../components/ServicesSection';
 import BookingSection from '../components/BookingSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import AboutSection from '../components/AboutSection';
+import GallerySection from '../components/GallerySection';
 
 export default function HomePage() {
   return (
@@ -21,6 +22,7 @@ export default function HomePage() {
     <BookingSection />
     <TestimonialsSection />
     <AboutSection />
+    <GallerySection />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">

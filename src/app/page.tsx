@@ -18,6 +18,7 @@ import ServicesPage from '../components/ServicesPage';
 import GalleryPage from '../components/GalleryPage';
 import ProductsPage from '../components/ProductsPage';
 import ContactPage from '../components/ContactPage';
+import AboutPage from '../components/AboutPage';
 
 export default function HomePage() {
   return (
@@ -41,6 +42,7 @@ export default function HomePage() {
     <GalleryPage />
     <ProductsPage />
     <ContactPage />
+    <AboutPage />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">

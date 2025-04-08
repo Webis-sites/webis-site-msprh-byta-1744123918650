@@ -15,6 +15,7 @@ import LocationSection from '../components/LocationSection';
 import Footer from '../components/Footer';
 import BookingPage from '../components/BookingPage';
 import ServicesPage from '../components/ServicesPage';
+import GalleryPage from '../components/GalleryPage';
 
 export default function HomePage() {
   return (
@@ -35,6 +36,7 @@ export default function HomePage() {
     <Footer />
     <BookingPage />
     <ServicesPage />
+    <GalleryPage />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">

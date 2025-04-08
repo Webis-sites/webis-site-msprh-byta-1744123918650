@@ -49,6 +49,10 @@
   --shadow-neumorphic-hover: 10px 10px 20px rgba(0, 0, 0, 0.06), -4px -4px 10px rgba(255, 255, 255, 0.9);
   --shadow-button-neumorphic: 4px 4px 8px rgba(0, 0, 0, 0.1), -2px -2px 6px rgba(255, 255, 255, 0.8);
   --shadow-button-neumorphic-pressed: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.5);
+
+  --card-shadow-hover: 15px 15px 30px rgba(0, 0, 0, 0.07), -15px -15px 30px rgba(255, 255, 255, 0.9);
+  --glass-background: rgba(255, 255, 255, 0.7);
+  --animation-timing: 0.3s ease-in-out;
 }
 
 html {

@@ -41,6 +41,9 @@
   --card-hover-shadow: 8px 8px 20px rgba(0,0,0,0.1), -8px -8px 20px rgba(255,255,255,0.9);
   --button-shadow: 3px 3px 6px rgba(0,0,0,0.1), -3px -3px 6px rgba(255,255,255,0.7);
   --button-active-shadow: inset 2px 2px 5px rgba(0,0,0,0.1), inset -2px -2px 5px rgba(255,255,255,0.5);
+
+  --glass-blur: 8px;
+  --border-radius: 1rem;
 }
 
 html {

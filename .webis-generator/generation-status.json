@@ -1,11 +1,120 @@
 {
-  "timestamp": "2025-04-08T14:52:31.317Z",
+  "timestamp": "2025-04-08T14:53:50.309Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 18,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with metadata and global styles"
+    },
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "Site header with logo, navigation, and booking button"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with headline, subheadline, and booking CTA for a hair salon"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of salon services with images, descriptions and pricing"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive appointment booking system with form"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials carousel/slider"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Salon history, mission, and team introduction"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of salon work and interior"
+    },
+    {
+      "name": "ProductsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Featured hair products sold by the salon"
+    },
+    {
+      "name": "PromotionsSection",
+      "type": "promotions",
+      "status": "pending",
+      "description": "Special offers and seasonal promotions"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "Salon location with map, hours, and contact info"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with links, social media, and copyright"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Full booking page with appointment system"
+    },
+    {
+      "name": "ServicesPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Detailed services page with categories and pricing"
+    },
+    {
+      "name": "GalleryPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Expanded gallery page with filtering options"
+    },
+    {
+      "name": "ProductsPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Full products catalog page with filtering and search"
+    },
+    {
+      "name": "ContactPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Contact page with form, map and information"
+    },
+    {
+      "name": "AboutPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Expanded about page with salon story and team"
+    }
+  ],
   "repoName": "webis-site-msprh-byta-1744123918650"
 }

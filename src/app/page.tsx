@@ -13,6 +13,7 @@ import ProductsSection from '../components/ProductsSection';
 import PromotionsSection from '../components/PromotionsSection';
 import LocationSection from '../components/LocationSection';
 import Footer from '../components/Footer';
+import BookingPage from '../components/BookingPage';
 
 export default function HomePage() {
   return (
@@ -31,6 +32,7 @@ export default function HomePage() {
     <PromotionsSection />
     <LocationSection />
     <Footer />
+    <BookingPage />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">

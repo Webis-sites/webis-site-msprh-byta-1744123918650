@@ -56,6 +56,9 @@
 
   --shadow-neumorphic-button: 5px 5px 10px rgba(166, 180, 200, 0.5), -5px -5px 10px rgba(255, 255, 255, 0.8);
   --transition-default: all 0.3s ease;
+
+  --shadow-neumorphic-inset: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.7);
+  --shadow-neumorphic-button-hover: 7px 7px 15px rgba(0, 0, 0, 0.1), -5px -5px 15px rgba(255, 255, 255, 0.8);
 }
 
 html {
